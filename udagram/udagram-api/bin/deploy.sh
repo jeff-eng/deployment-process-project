@@ -2,7 +2,6 @@ eb list
 
 eb use udagram-api-dev
 
-eb setenv NAME=$NAME
 eb setenv POSTGRES_USERNAME=$POSTGRES_USERNAME
 eb setenv POSTGRES_PASSWORD=$POSTGRES_PASSWORD
 eb setenv POSTGRES_HOST=$POSTGRES_HOST
